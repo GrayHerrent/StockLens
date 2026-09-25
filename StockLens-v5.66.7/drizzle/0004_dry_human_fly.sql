@@ -1,0 +1,1 @@
+ALTER TABLE `ebay_item_mapping` ADD `assembly_components` text DEFAULT '[]' NOT NULL;

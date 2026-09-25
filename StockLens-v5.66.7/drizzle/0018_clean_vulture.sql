@@ -1,0 +1,1 @@
+CREATE INDEX `amazon_replenishment_cache_marketplace_retrieved_idx` ON `amazon_replenishment_report_cache` (`marketplace_id`,`retrieved_at`);
